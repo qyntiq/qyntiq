@@ -26,7 +26,6 @@ RESEARCH • ENGINEERING • INTELLIGENCE • AUTOMATION • SCALE
 </sub>
 
 </div>
----
 <!-- ==================== TECHNOLOGY ==================== -->
 
 ### 𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘
@@ -36,11 +35,6 @@ RESEARCH • ENGINEERING • INTELLIGENCE • AUTOMATION • SCALE
 <img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,java,react,nextjs,fastapi,nodejs,pytorch,tensorflow,postgres,mongodb,docker,linux,aws,gcp,git,github&perline=10" />
 
 <br /><br />
-
-<sub>
-Python • C++ • TypeScript • JavaScript • Java • React • Next.js • FastAPI • Node.js<br />
-PyTorch • TensorFlow • PostgreSQL • MongoDB • Docker • Linux • AWS • Google Cloud • Git • GitHub
-</sub>
 
 </div>
 
