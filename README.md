@@ -33,55 +33,26 @@
 
 </div>
 <!-- ==================== TECHNOLOGY ==================== -->
-
 ### 𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘
-
 <div align="center">
-
 <!-- Programming -->
 <img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,java,rust,go,bash&perline=8" />
-
-<br /><br />
-
 <!-- AI / Machine Learning -->
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv&perline=4" />
-
-<br /><br />
-
 <!-- Backend / Application -->
 <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,react,nextjs,tailwind&perline=6" />
-
-<br /><br />
-
 <!-- Data / Databases -->
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka&perline=5" />
-
-<br /><br />
-
 <!-- DevOps / Infrastructure -->
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,git,github,gitlab&perline=7" />
-
-<br /><br />
-
 <!-- Cloud -->
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform&perline=4" />
-
-<br /><br />
-
 <!-- Research / Analytics -->
 <img src="https://skillicons.dev/icons?i=jupyter,anaconda,matlab,grafana,prometheus&perline=5" />
-
-<br /><br />
-
 <!-- Automation / Productivity -->
 <img src="https://skillicons.dev/icons?i=n8n,notion&perline=2" />
-
-<br /><br />
-
 </div>
-
 ---
-
 ### 𝐂𝐎𝐍𝐍𝐄𝐂𝐓
 
 <div align="center">
