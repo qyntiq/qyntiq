@@ -116,27 +116,5 @@
 <!-- ==================== FOOTER ==================== -->
 
 <div align="center">
-
-<br />
-
-<sub>
-<b>QYNTIQ</b>
-</sub>
-
-<br />
-
-<sub>
-INTELLIGENCE • SYSTEMS • TECHNOLOGY • SCALE
-</sub>
-
-<br /><br />
-
-<sub>
-RESEARCH → ENGINEER → AUTOMATE → SCALE
-</sub>
-
-<br /><br />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=100&section=footer" width="100%" alt="QYNTIQ Footer" />
-
 </div>
