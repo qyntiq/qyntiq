@@ -6,7 +6,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=00D26A&center=true&vcenter=true&width=700&lines=Building+Intelligent+Financial+Systems;AI•%C3%97+FinTech+%C3%97+Quantitative+Finance;Researching%2C+Engineering%2C+Automating;From+Data+%E2%86%92+Intelligence+%E2%86%92+Systems;Engineering+Technology+for+Long-Term+Scale" alt="QYNTIQ Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=00D26A&center=true&vcenter=true&width=700&lines=Building+Intelligent+Financial+Systems;AI+%C3%97+FinTech+%C3%97+Quantitative+Finance;Researching%2C+Engineering%2C+Automating;From+Data+%E2%86%92+Intelligence+%E2%86%92+Systems;Engineering+Technology+for+Long-Term+Scale" alt="QYNTIQ Typing" />
 
 <br />
 
