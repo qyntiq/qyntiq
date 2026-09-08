@@ -33,23 +33,77 @@
 
 </div>
 <!-- ==================== TECHNOLOGY ==================== -->
+
 <div align="center">
-<!-- Programming -->
-<img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,java,rust,go,bash&perline=8" />
+
+<!-- Programming Languages -->
+<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,kotlin,swift,rust,go,ruby,php,typescript,javascript&perline=13" />
+
+<br /><br />
+
+<!-- Web / Frontend -->
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,nextjs,vue,angular,vite&perline=10" />
+
+<br /><br />
+
+<!-- Backend / APIs -->
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,nestjs,spring,dotnet&perline=8" />
+
+<br /><br />
+
 <!-- AI / Machine Learning -->
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv&perline=4" />
-<!-- Backend / Application -->
-<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,react,nextjs,tailwind&perline=6" />
-<!-- Data / Databases -->
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka&perline=5" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4" />
+
+<br /><br />
+
+<!-- Data Science / Research -->
+<img src="https://skillicons.dev/icons?i=jupyter,anaconda,matlab,r&perline=4" />
+
+<br /><br />
+
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,cassandra&perline=6" />
+
+<br /><br />
+
+<!-- Data / Streaming -->
+<img src="https://skillicons.dev/icons?i=kafka,spark,elasticsearch&perline=3" />
+
+<br /><br />
+
 <!-- DevOps / Infrastructure -->
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,git,github,gitlab&perline=7" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,ubuntu,nginx,git,github,gitlab,bitbucket&perline=9" />
+
+<br /><br />
+
 <!-- Cloud -->
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform&perline=4" />
-<!-- Research / Analytics -->
-<img src="https://skillicons.dev/icons?i=jupyter,anaconda,matlab,grafana,prometheus&perline=5" />
-<!-- Automation / Productivity -->
-<img src="https://skillicons.dev/icons?i=n8n,notion&perline=2" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,firebase,vercel,cloudflare&perline=6" />
+
+<br /><br />
+
+<!-- Infrastructure as Code -->
+<img src="https://skillicons.dev/icons?i=terraform,ansible&perline=2" />
+
+<br /><br />
+
+<!-- Monitoring / Observability -->
+<img src="https://skillicons.dev/icons?i=grafana,prometheus&perline=2" />
+
+<br /><br />
+
+<!-- Automation / Workflow -->
+<img src="https://skillicons.dev/icons?i=n8n&perline=1" />
+
+<br /><br />
+
+<!-- Development Tools -->
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea,postman,githubactions&perline=6" />
+
+<br /><br />
+
+<!-- Version Control / Collaboration -->
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket&perline=4" />
+
 </div>
 <br /><br />
 <div align="center">
