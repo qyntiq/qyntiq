@@ -33,7 +33,7 @@
 
 </div>
 <!-- ==================== TECHNOLOGY ==================== -->
-### 𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘
+𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘
 <div align="center">
 <!-- Programming -->
 <img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,java,rust,go,bash&perline=8" />
@@ -53,7 +53,7 @@
 <img src="https://skillicons.dev/icons?i=n8n,notion&perline=2" />
 </div>
 ---
-### 𝐂𝐎𝐍𝐍𝐄𝐂𝐓
+𝐂𝐎𝐍𝐍𝐄𝐂𝐓
 
 <div align="center">
 
