@@ -32,7 +32,6 @@
 <br />
 
 </div>
-### 𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘
 
 <div align="center">
 
@@ -42,7 +41,7 @@
 <br /><br />
 
 <!-- AI / Machine Learning -->
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,jupyter,anaconda&perline=6" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&perline=6" />
 
 <br /><br />
 
