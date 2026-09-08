@@ -87,9 +87,7 @@
 <a href="https://qyntiq.medium.com">
   <img src="https://img.shields.io/badge/Medium-@qyntiq-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-
 <br />
-
 <a href="https://dev.to/qyntiq">
   <img src="https://img.shields.io/badge/DEV.to-@qyntiq-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 </a>
@@ -105,9 +103,7 @@
 <a href="https://www.pinterest.com/qyntiq">
   <img src="https://img.shields.io/badge/Pinterest-@qyntiq-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" />
 </a>
-
 <br />
-
 <a href="https://discord.com">
   <img src="https://img.shields.io/badge/Discord-@qyntiq-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
@@ -120,13 +116,7 @@
 <a href="https://www.crunchbase.com/organization/qyntiq">
   <img src="https://img.shields.io/badge/Crunchbase-QYNTIQ-0288D1?style=for-the-badge&logo=crunchbase&logoColor=white" />
 </a>
-
 </div>
-
----
-
-<!-- ==================== FOOTER ==================== -->
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=100&section=footer" width="100%" alt="QYNTIQ Footer" />
 </div>
