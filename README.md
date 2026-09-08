@@ -38,7 +38,42 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,java,react,nextjs,fastapi,nodejs,pytorch,tensorflow,postgres,mongodb,docker,linux,aws,gcp,git,github&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,java,rust,go,bash&perline=8" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv,fastapi,django,nodejs&perline=7" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=5" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka&perline=5" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,git,github,gitlab&perline=7" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform&perline=4" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=jupyter,anaconda,matlab&perline=3" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=grafana,prometheus&perline=2" />
+
+<br />
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Make-6D4AFF?style=for-the-badge&logo=make&logoColor=white" />
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 
 <br /><br />
 
