@@ -38,52 +38,40 @@
 <!-- Programming -->
 <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,rust,go,bash&perline=7" />
 
-<br /><br />
 
 <!-- AI / Machine Learning -->
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&perline=6" />
 
-<br /><br />
-
 <!-- Software Engineering -->
 <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,react,nextjs,tailwind&perline=6" />
 
-<br /><br />
 
 <!-- Data / Database -->
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,kafka,sqlite&perline=6" />
 
-<br /><br />
 
 <!-- Quant / Financial Technology -->
 <img src="https://skillicons.dev/icons?i=matlab&perline=1" />
 
-<br /><br />
-
 <!-- Cloud / DevOps -->
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,linux&perline=7" />
 
-<br /><br />
 
 <!-- Development Tools -->
 <img src="https://skillicons.dev/icons?i=nginx,git,github,gitlab,githubactions,vscode,pycharm&perline=7" />
 
-<br /><br />
 
 <!-- Monitoring / Infrastructure -->
 <img src="https://skillicons.dev/icons?i=grafana,prometheus,cloudflare,vercel&perline=4" />
 
-<br /><br />
 
 <!-- Automation / Productivity -->
 <img src="https://skillicons.dev/icons?i=notion,figma,obsidian&perline=3" />
 
-<br /><br />
 
 <!-- Blockchain / Web3 -->
 <img src="https://skillicons.dev/icons?i=solidity&perline=1" />
 
-<br /><br />
 
 </div>
 
