@@ -1,4 +1,3 @@
-hero and footer atar ta daw,
 \<div align="center">
 
 \<!-- ==================== HERO ==================== -->
