@@ -2,7 +2,7 @@
 
 <!-- ==================== HERO ==================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=230&section=header&text=QYNTIQ&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" alt="QYNTIQ Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B3D2E&height=230&section=header&text=QYNTIQ&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" alt="QYNTIQ Banner" />
 
 <br />
 
@@ -138,5 +138,5 @@
 </a>
 </div>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=100&section=footer" width="100%" alt="QYNTIQ Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B3D2E&height=100&section=footer" width="100%" alt="QYNTIQ Footer" />
 </div>
