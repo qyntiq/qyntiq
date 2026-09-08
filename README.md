@@ -17,6 +17,16 @@
 <img src="https://img.shields.io/badge/QUANT%20FINANCE-8A2BE2?style=for-the-badge&logo=target&logoColor=white" />
 <img src="https://img.shields.io/badge/SYSTEMS-FF5722?style=for-the-badge&logo=stackshare&logoColor=white" />
 
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-00A67E?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/ALGORITHMIC%20TRADING-1F6FEB?style=for-the-badge&logo=tradingview&logoColor=white" />
+<img src="https://img.shields.io/badge/AUTOMATION-F59E0B?style=for-the-badge&logo=zapier&logoColor=white" />
+<img src="https://img.shields.io/badge/DATA%20INTELLIGENCE-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" />
+
+<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-24292F?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/FINANCIAL%20INTELLIGENCE-0EA5E9?style=for-the-badge&logo=moneygram&logoColor=white" />
+<img src="https://img.shields.io/badge/RESEARCH-64748B?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/INTELLIGENT%20INFRASTRUCTURE-334155?style=for-the-badge&logo=docker&logoColor=white" />
+
 </p>
 
 <br />
