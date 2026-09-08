@@ -351,94 +351,82 @@ designed to compound.
 
 ---
 
-<!-- ==================== ECOSYSTEM ==================== -->
-
-### 𝐐𝐘𝐍𝐓𝐈𝐐 𝐄𝐂𝐎𝐒𝐘𝐒𝐓𝐄𝐌
-
-<div align="center">
-
-<table width="100%">
-<tr>
-
-<td align="center">GitHub</td>
-<td align="center">LinkedIn</td>
-<td align="center">X</td>
-<td align="center">Instagram</td>
-<td align="center">YouTube</td>
-
-</tr>
-
-<tr>
-
-<td align="center">Medium</td>
-<td align="center">Dev Community</td>
-<td align="center">Hashnode</td>
-<td align="center">Reddit</td>
-<td align="center">Facebook</td>
-
-</tr>
-
-<tr>
-
-<td align="center">Product Hunt</td>
-<td align="center">Discord</td>
-<td align="center">TikTok</td>
-<td align="center">Pinterest</td>
-<td align="center">Telegram</td>
-
-</tr>
-
-<tr>
-
-<td align="center">Substack</td>
-<td align="center">Hugging Face</td>
-<td align="center">Crunchbase</td>
-<td align="center">Gmail</td>
-<td align="center">Threads</td>
-
-</tr>
-
-</table>
-
-</div>
-
 ---
-
-<!-- ==================== CONNECT ==================== -->
 
 ### 𝐂𝐎𝐍𝐍𝐄𝐂𝐓
 
 <div align="center">
 
-<sub>
-RESEARCH • COLLABORATION • TECHNOLOGY • PARTNERSHIPS
-</sub>
-
-<br /><br />
-
-<a href="#">
-<img src="https://img.shields.io/badge/WEBSITE-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00D26A" />
+<a href="https://github.com/qyntiq">
+  <img src="https://img.shields.io/badge/GitHub-@qyntiq-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/qyntiq">
+  <img src="https://img.shields.io/badge/LinkedIn-@qyntiq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/qyntiq">
+  <img src="https://img.shields.io/badge/X-@qyntiq-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/qyntiq">
+  <img src="https://img.shields.io/badge/Instagram-@qyntiq-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/qyntiq">
+  <img src="https://img.shields.io/badge/Facebook-@qyntiq-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+<br />
+
+<a href="https://www.youtube.com/@qyntiq">
+  <img src="https://img.shields.io/badge/YouTube-@qyntiq-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://www.tiktok.com/@qyntiq">
+  <img src="https://img.shields.io/badge/TikTok-@qyntiq-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+<a href="https://www.threads.net/@qyntiq">
+  <img src="https://img.shields.io/badge/Threads-@qyntiq-000000?style=for-the-badge&logo=threads&logoColor=white" />
+</a>
+<a href="https://www.reddit.com/user/qyntiq">
+  <img src="https://img.shields.io/badge/Reddit-@qyntiq-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+</a>
+<a href="https://qyntiq.medium.com">
+  <img src="https://img.shields.io/badge/Medium-@qyntiq-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF" />
+<br />
+
+<a href="https://dev.to/qyntiq">
+  <img src="https://img.shields.io/badge/DEV.to-@qyntiq-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
+<a href="https://hashnode.com/@qyntiq">
+  <img src="https://img.shields.io/badge/Hashnode-@qyntiq-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>
+<a href="https://www.producthunt.com/@qyntiq">
+  <img src="https://img.shields.io/badge/Product%20Hunt-@qyntiq-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" />
+</a>
+<a href="https://huggingface.co/qyntiq">
+  <img src="https://img.shields.io/badge/Hugging%20Face-@qyntiq-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</a>
+<a href="https://www.pinterest.com/qyntiq">
+  <img src="https://img.shields.io/badge/Pinterest-@qyntiq-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" />
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+<br />
+
+<a href="https://discord.com">
+  <img src="https://img.shields.io/badge/Discord-@qyntiq-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-
-<br /><br />
-
-<a href="#">
-<img src="https://img.shields.io/badge/BUILD%20WITH%20QYNTIQ-00D26A?style=for-the-badge&logo=rocket&logoColor=white" />
+<a href="https://t.me/qyntiq">
+  <img src="https://img.shields.io/badge/Telegram-@qyntiq-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://substack.com/@qyntiq">
+  <img src="https://img.shields.io/badge/Substack-@qyntiq-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
+</a>
+<a href="https://www.crunchbase.com/organization/qyntiq">
+  <img src="https://img.shields.io/badge/Crunchbase-QYNTIQ-0288D1?style=for-the-badge&logo=crunchbase&logoColor=white" />
 </a>
 
 </div>
+
+---
 
 ---
 
