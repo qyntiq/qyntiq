@@ -21,10 +21,6 @@
 
 <br />
 
-<sub>
-RESEARCH • ENGINEERING • INTELLIGENCE • AUTOMATION • SCALE
-</sub>
-
 </div>
 <!-- ==================== TECHNOLOGY ==================== -->
 
