@@ -31,19 +31,62 @@ RESEARCH • ENGINEERING • INTELLIGENCE • AUTOMATION • SCALE
 
 <!-- ==================== ABOUT ==================== -->
 
+### 𝐀𝐁𝐎𝐔𝐓
+
 <div align="center">
 
+<table width="100%">
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+<b>QYNTIQ</b>
+
+<br /><br />
+
 <sub>
-QYNTIQ is a technology company building intelligent systems
-at the intersection of <b>Artificial Intelligence, FinTech,
+QYNTIQ is a technology company building
+intelligent systems at the intersection of
+<b>Artificial Intelligence, FinTech,
 Quantitative Finance, and Software Engineering.</b>
 </sub>
 
 <br /><br />
 
 <sub>
-RESEARCH → ENGINEERING → INTELLIGENCE → SYSTEMS → SCALE
+We research, engineer, and develop
+technology-driven systems designed to
+transform complex data and ideas into
+practical intelligence and scalable solutions.
 </sub>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<b>OUR DIRECTION</b>
+
+<br /><br />
+
+<sub>
+Artificial Intelligence<br />
+Financial Technology<br />
+Quantitative Systems<br />
+Software Engineering<br />
+Automation & Infrastructure<br />
+Data & Intelligence
+</sub>
+
+<br /><br />
+
+<sub>
+<b>Research → Intelligence → Engineering → Scale</b>
+</sub>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -167,7 +210,7 @@ PyTorch • TensorFlow • PostgreSQL • MongoDB • Docker • Linux • AWS �
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/QYNTIQ-0D1117?style=for-the-badge&logoColor=00D26A" />
+<img src="https://img.shields.io/badge/QYNTIQ-0D1117?style=for-the-badge" />
 
 <br /><br />
 
@@ -186,3 +229,6 @@ RESEARCH → ENGINEER → AUTOMATE → SCALE
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=45&section=footer&text=QYNTIQ&fontSize=18&fontColor=00D26A&fontAlignY=50" width="100%" alt="QYNTIQ Footer" />
 
 </div>
+```
+
+**One strategic note:** এখন QYNTIQ-এর Organization README-তে **৪টা section-ই যথেষ্ট**। পরে যখন real products, open-source projects, research, documentation বা hiring শুরু হবে, তখন README-তে নতুন section যোগ করার দরকার না-ও হতে পারে—সেগুলো আলাদা repositories/pages দিয়েই প্রকাশ করা যাবে।
