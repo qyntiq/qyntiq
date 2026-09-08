@@ -38,50 +38,49 @@
 
 <div align="center">
 
+<!-- Programming -->
 <img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,java,rust,go,bash&perline=8" />
 
-<br />
+<br /><br />
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv,fastapi,django,nodejs&perline=7" />
+<!-- AI / Machine Learning -->
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv&perline=4" />
 
-<br />
+<br /><br />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=5" />
+<!-- Backend / Application -->
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,react,nextjs,tailwind&perline=6" />
 
-<br />
+<br /><br />
 
+<!-- Data / Databases -->
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka&perline=5" />
 
-<br />
+<br /><br />
 
+<!-- DevOps / Infrastructure -->
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,git,github,gitlab&perline=7" />
 
-<br />
+<br /><br />
 
+<!-- Cloud -->
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform&perline=4" />
 
-<br />
+<br /><br />
 
-<img src="https://skillicons.dev/icons?i=jupyter,anaconda,matlab&perline=3" />
+<!-- Research / Analytics -->
+<img src="https://skillicons.dev/icons?i=jupyter,anaconda,matlab,grafana,prometheus&perline=5" />
 
-<br />
+<br /><br />
 
-<img src="https://skillicons.dev/icons?i=grafana,prometheus&perline=2" />
-
-<br />
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Make-6D4AFF?style=for-the-badge&logo=make&logoColor=white" />
-<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<!-- Automation / Productivity -->
+<img src="https://skillicons.dev/icons?i=n8n,notion&perline=2" />
 
 <br /><br />
 
 </div>
 
 ---
-
-<!-- ==================== CONNECT ==================== -->
 
 ### 𝐂𝐎𝐍𝐍𝐄𝐂𝐓
 
