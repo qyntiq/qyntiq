@@ -69,9 +69,6 @@
 <a href="https://www.facebook.com/qyntiq">
   <img src="https://img.shields.io/badge/Facebook-@qyntiq-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-
-<br />
-
 <a href="https://www.youtube.com/@qyntiq">
   <img src="https://img.shields.io/badge/YouTube-@qyntiq-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
@@ -103,7 +100,6 @@
 <a href="https://www.pinterest.com/qyntiq">
   <img src="https://img.shields.io/badge/Pinterest-@qyntiq-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" />
 </a>
-<br />
 <a href="https://discord.com">
   <img src="https://img.shields.io/badge/Discord-@qyntiq-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
