@@ -2,7 +2,7 @@
 
 <!-- ==================== HERO ==================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=230&section=header&text=QYNTIQ&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%E2%80%A2%20FinTech%20%E2%80%A2%20Quantitative%20Systems%20%E2%80%A2%20Intelligent%20Infrastructure&descAlignY=58&descSize=14" width="100%" alt="QYNTIQ Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=230&section=header&text=QYNTIQ&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" alt="QYNTIQ Banner" />
 
 <br />
 
